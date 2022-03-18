@@ -10,7 +10,7 @@
   - [Find a coach app tutorial (Vue)](https://coach-app-9da9b.web.app/coaches)
   - youdeal app (earlier versions of my idea with django+bootstrap not completed)
   - ...
-#### Currently working on my own idesa for an app:
+#### Currently working on my own ideas for an app:
   - Yoedeal (django(drf) and quasar)
   - custom blog
 <details>
