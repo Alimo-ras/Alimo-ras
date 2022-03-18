@@ -8,9 +8,9 @@
   - music app from thenewboston youtube channel(django)
   - some library app (django)
   - [Find a coach app tutorial (Vue)](https://coach-app-9da9b.web.app/coaches)
-  - youdeal app (earlier versions django+bootstrap)
+  - youdeal app (earlier versions of my idea with django+bootstrap not completed)
   - ...
-#### Currently working on my own idesa for app:
+#### Currently working on my own idesa for an app:
   - Yoedeal (django(drf) and quasar)
   - custom blog
 <details>
