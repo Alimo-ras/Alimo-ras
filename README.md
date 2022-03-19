@@ -14,7 +14,7 @@
   - Yoedeal (django(drf) and quasar)
   - custom blog
 <details>
-<summary>⚡️ I recently joind github but here is thee github summary:</summary>
+<summary>⚡️ I recently joind github but here is the github summary:</summary>
 <br />
 
   
@@ -25,7 +25,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimo-ras&show_icons=true&theme=radical)
 
 </details>
-<!---
-Alimo-ras/Alimo-ras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
