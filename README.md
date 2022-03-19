@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alimo-ras,Its about 2 years (Not Continuously) that i started to learn coding as a passion in my spare time,
 - 👀 I’m interested in Django, Vue, Quasar 
-- 🌱 I’m currently learning Django, Vue, Quasar
+- 🌱 I’m currently learning Django, Vue, Quasar and working on my ideas
 - 💞️ I’m looking to collaborate on projects that use Django, Vue, Quasar
 - 📫 You can reach me  <a href="mailto:alimoh_110@yahoo.com">Send email</a> 
 
